@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4t3reXH5Czo3JIVq1GBPolUS9CgBjT8ryxnEukaYbeY=",
+  "Source": "DEPLOY.Service.API",
+  "BasePath": "_content/DEPLOY.Service.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

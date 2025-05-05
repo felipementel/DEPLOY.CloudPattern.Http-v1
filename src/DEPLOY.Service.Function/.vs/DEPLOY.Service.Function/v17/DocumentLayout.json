@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|c:\\proj\\deploy\\_mantidos\\cloudpatterns\\deploy.cloudpattern.circuitbreak.retry.timeout.fallback.chaos-v1\\src\\deploy.service.function\\deploy.service.function\\funcjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|solutionrelative:deploy.service.function\\funcjobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|c:\\proj\\deploy\\_mantidos\\cloudpatterns\\deploy.cloudpattern.circuitbreak.retry.timeout.fallback.chaos-v1\\src\\deploy.service.function\\deploy.service.function\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|solutionrelative:deploy.service.function\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|c:\\proj\\deploy\\_mantidos\\cloudpatterns\\deploy.cloudpattern.circuitbreak.retry.timeout.fallback.chaos-v1\\src\\deploy.service.function\\deploy.service.function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|solutionrelative:deploy.service.function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|c:\\proj\\deploy\\_mantidos\\cloudpatterns\\deploy.cloudpattern.circuitbreak.retry.timeout.fallback.chaos-v1\\src\\deploy.service.function\\deploy.service.function\\deploy.service.function.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34D40D92-A1DD-4AE9-B930-5CEA2F83B494}|DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj|solutionrelative:deploy.service.function\\deploy.service.function.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncJobs.cs",
+              "DocumentMoniker": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\FuncJobs.cs",
+              "RelativeDocumentMoniker": "DEPLOY.Service.Function\\FuncJobs.cs",
+              "ToolTip": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\FuncJobs.cs",
+              "RelativeToolTip": "DEPLOY.Service.Function\\FuncJobs.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:39:23.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\host.json",
+              "RelativeDocumentMoniker": "DEPLOY.Service.Function\\host.json",
+              "ToolTip": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\host.json",
+              "RelativeToolTip": "DEPLOY.Service.Function\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T11:19:34.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DEPLOY.Service.Function.csproj",
+              "DocumentMoniker": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj",
+              "RelativeDocumentMoniker": "DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj",
+              "ToolTip": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj",
+              "RelativeToolTip": "DEPLOY.Service.Function\\DEPLOY.Service.Function.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T11:09:59.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\Program.cs",
+              "RelativeDocumentMoniker": "DEPLOY.Service.Function\\Program.cs",
+              "ToolTip": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.Function\\DEPLOY.Service.Function\\Program.cs",
+              "RelativeToolTip": "DEPLOY.Service.Function\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:06:45.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

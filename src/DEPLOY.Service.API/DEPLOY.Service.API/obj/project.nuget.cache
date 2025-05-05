@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBH3TaCP3Gw=",
+  "success": true,
+  "projectFilePath": "C:\\Proj\\DEPLOY\\_Mantidos\\CloudPatterns\\DEPLOY.CloudPattern.CircuitBreak.Retry.Timeout.Fallback.Chaos-v1\\src\\DEPLOY.Service.API\\DEPLOY.Service.API\\DEPLOY.Service.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\polly.core\\8.5.2\\polly.core.8.5.2.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\polly.extensions\\8.5.2\\polly.extensions.8.5.2.nupkg.sha512",
+    "C:\\Users\\felipe.augusto\\.nuget\\packages\\scalar.aspnetcore\\2.2.5\\scalar.aspnetcore.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DEPLOY.Service.API.props" />
+</Project>
